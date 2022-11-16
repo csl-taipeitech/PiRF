@@ -1,6 +1,6 @@
 # PiRF
 A 2.4G Raspberry Pi nRF24L01 SPI module.
-![image](./kicad/pcb/remote-rpi.png)
+![image](./image/IMG_1698.JPG)
 
 ## Fetures
 - Support all model of Raspberry Pi (26-pin and 40-pin GPIO)
