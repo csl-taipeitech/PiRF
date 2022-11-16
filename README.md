@@ -7,6 +7,8 @@ A 2.4G Raspberry Pi nRF24L01 SPI module.
 - On-board LED indicate IRQ of the nRF24
 - Fit well with Raspberry Pi official case
 
+![image](./image/DSC_2128.JPG)
+
 ## Recommended libraries
 RF24 has been tested by our team. Change the CE pin to GPIO24, IRQ to GPIO25 manually.
 - [RF24](https://github.com/nRF24/RF24)
