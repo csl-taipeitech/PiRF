@@ -1,5 +1,6 @@
 # PiRF
-A 2.4G Raspberry Pi nRF24L01 SPI module.
+A 2.4G Raspberry Pi nRF24L01 SPI module. [Order the borad on OSH Park!](https://oshpark.com/shared_projects/JfrGd6Lo)
+
 ![image](./image/IMG_1698.JPG)
 
 ## Fetures
