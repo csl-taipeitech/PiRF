@@ -6,7 +6,7 @@ A 2.4G Raspberry Pi nRF24L01 SPI module. [Order the borad on OSH Park!](https://
 ## Fetures
 - Support all model of Raspberry Pi (26-pin and 40-pin GPIO)
 - On-board LED indicate IRQ of the nRF24
-- Fit well with Raspberry Pi official case
+- Fit well with original Raspberry Pi Model B case
 
 ![image](./image/DSC_2128.JPG)
 
